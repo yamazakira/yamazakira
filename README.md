@@ -1,5 +1,5 @@
 # 🐲 Akira Yamazaki 
-**`Programing student at IFRN`**
+**`Técnico em informática para internet pelo IFRN`**
 
 <!-- Hey y'all! </br>
 
