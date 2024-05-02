@@ -1,5 +1,54 @@
-# 🐲 Akira Yamazaki 
-📗 | Técnico em informática para internet pelo IFRN  
-📖 | Atualmente cursando TI na UFRN (Currently studying IT at the Federal University of Rio Grande do Norte)
+<h1>
+  <span>
+    <img src="https://media.tenor.com/OEAjabUzGKEAAAAi/microsoft-computer.gif"
+      height="30"
+      </span>
+    Akira Yamazaki</h1>
+    
+**`Web Developer in the making`**
 
-<p align="center"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+Hey all! I'm a brazilian IT student at UFRN, with experience in Web Development due to also graduating from IFRN. I also have experience working in tech support and customer service.
+
+<div align="left">
+  <a href="https://instagram.com/akiraymzk" target="_blank">
+    <img alt="instagram" title="Follow me on Instagram!" src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/akira-yamazaki/" target="_blank">
+    <img alt="linkedin" title="Take a look at my LinkedIn" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
+  </a>
+  <a href="https://github.com/yamazakira?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/yamazakira?color=55960c&style=for-the-badge&labelColor=488207&logo=star" height="30" /></a>
+  <a href="https://github.com/yamazakira?tab=followers">
+    <img alt="followers" title="Follow me on Github!" src="https://custom-icon-badges.demolab.com/github/followers/yamazakira?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white" height="30" /></a>
+</div>
+
+#
+<h3>
+  <span>
+    <img src="https://custom-doodle.com/wp-content/uploads/doodle/windows-95-spin-disc-icon-doodle/windows-95-spin-disc-icon-doodle.gif"
+      height="25"
+      </span>
+    Languages and Tools</h3>
+
+<div align="left">
+  <img alt="python" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img alt="csharp" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+  <img alt="javascript" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img alt="html" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+  <img alt="react" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+  <img alt="css" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+  <img alt="git" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+</div>
+
+#
+<h3>
+  <span>
+    <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2F33.media.tumblr.com%2F5fa0b5c639f38671ee83c407b25f6b13%2Ftumblr_n8gb71pSid1r6zgh0o1_500.gif&f=1&nofb=1&ipt=8ad5c8b5d08a8f418470cca56a06a07841ca394814a9314bda8e74c756b336b3&ipo=images"
+      height="25"
+      </span>
+    Stats</h3>
+
+<div align="left">
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=yamazakira&theme=synthwave&date_format=j%20M%5B%20Y%5D&mode=weekly" height="175" alt="GitHub Streak" /></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yamazakira&layout=compact&theme=synthwave" height="175" alt="Top Languages" /></a>
+</div>
