@@ -49,6 +49,6 @@ Hey all! I'm a brazilian IT student at UFRN, with experience in Web Development 
     Stats</h3>
 
 <div align="left">
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=yamazakira&theme=synthwave&date_format=j%20M%5B%20Y%5D&mode=weekly" height="175" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=yamazakira&theme=synthwave&date_format=j%20M%5B%20Y%5D&mode=daily" height="175" alt="GitHub Streak" /></a>
 <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yamazakira&layout=compact&theme=synthwave" height="175" alt="Top Languages" /></a>
 </div>
