@@ -39,16 +39,3 @@ Hey all! I'm a brazilian IT student at UFRN, with experience in Web Development 
   <img alt="css" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
   <img alt="git" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 </div>
-
-#
-<h3>
-  <span>
-    <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2F33.media.tumblr.com%2F5fa0b5c639f38671ee83c407b25f6b13%2Ftumblr_n8gb71pSid1r6zgh0o1_500.gif&f=1&nofb=1&ipt=8ad5c8b5d08a8f418470cca56a06a07841ca394814a9314bda8e74c756b336b3&ipo=images"
-      height="25"
-      </span>
-    Stats</h3>
-
-<div align="left">
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=yamazakira&theme=synthwave&date_format=j%20M%5B%20Y%5D&mode=daily" height="175" alt="GitHub Streak" /></a>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yamazakira&layout=compact&theme=synthwave" height="175" alt="Top Languages" /></a>
-</div>
