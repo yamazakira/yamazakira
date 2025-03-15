@@ -16,8 +16,6 @@ Hey all! I'm a brazilian IT student at UFRN, with experience in Web Development 
   <a href="https://www.linkedin.com/in/akira-yamazaki/" target="_blank">
     <img alt="linkedin" title="Take a look at my LinkedIn" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
   </a>
-  <a href="https://github.com/yamazakira?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/yamazakira?color=55960c&style=for-the-badge&labelColor=488207&logo=star" height="30" /></a>
   <a href="https://github.com/yamazakira?tab=followers">
     <img alt="followers" title="Follow me on Github!" src="https://custom-icon-badges.demolab.com/github/followers/yamazakira?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white" height="30" /></a>
 </div>
